@@ -7,7 +7,6 @@
     
     </head>
 
-
     <body>
     <h1>Christina's Wonderful Landing Page</h1>
         <p>
@@ -30,7 +29,7 @@
             chocolate bar carrot cake marshmallow sweet marshmallow. Tootsie roll
             topping marzipan tiramisu lemon drops.
         </p>
-        <p>
+        <p id="normal-stuff">
             Third paragraph, just because I want three. Here's some regular
             <a href="https://loremipsum.io/" target="_blank">Lorum Ipsum</a>
             to keep you company: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -46,11 +45,16 @@
             purus. Egestas maecenas pharetra convallis posuere morbi. Velit laoreet
             id donec ultrices tincidunt. Sit amet aliquam id diam maecenas ultricies
             mi. Mauris vitae ultricies leo integer.
+            <br>Here's where I got the information on this button to try out:
+            <a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_whereto_body" target="_blank">Where to Insert JavaScript in 'body'</a>
+            <br>
+            <button type="button" onclick="myFunction()">Click this button and the paragraph
+            will change.</button>
         </p>
         <p>
             Fourth paragraph. Because...why not? The more the merrier! How about a
             list?
-            <h2>Types of Towels</h2>
+            <h2 id ="towel-list">Types of Towels</h2>
             <ul>
                 <li>Paper towels</li>
                 <li>Hand towels</li>
@@ -60,6 +64,7 @@
                 <li>Bath towels</li>
                 <li>Gross wet towels</li>
             </ul>
+            <img src="photos/towels.jpg" alt="assorted towels">
         </p>
         <p>
             What's a page without a 5th paragraph? Here's some
@@ -69,5 +74,6 @@
             boudin tongue sunt nisi incididunt lorem aliqua. Bacon anim sunt ground
             round strip steak voluptate in frankfurter.
         </p>
+        <script src ="app.js"></script>
     </body>
 </html>

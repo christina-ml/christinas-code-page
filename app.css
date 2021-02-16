@@ -1,17 +1,24 @@
 body {
-    color: green;
+    color: cadetblue;
 }
 
 h1 {
-    color: pink;
+    color: linen;
+    text-align: center;
+    border: 5px solid lavender;
+    padding: 20px;
+    margin: 5px;
+    box-shadow: 10px yellowgreen;
+    width: 600px;
+    background-color:thistle;
 }
 
 h1:hover {
-    color: red;
+    color: lavender;
 }
 
 p {
-    color: peru
+    color: burlywood;
 }
 
 img {
