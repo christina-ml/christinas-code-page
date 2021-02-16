@@ -13,6 +13,7 @@ What can't I do? This project is to show off my skills of experimenting with dif
 Also, I am using Git & GitHub for this. Working on my own computer, in a folder. Then I use $ git init, add the changes, make sure I'm on the right branch, make a commit, write a relevant commit message, and then push the project onto GitHub, where we are now.
 
 # Elements Used In This Project
+A few highlights of what I included in this project. Have any other suggestions for things to add? Let me know!
 
 ## HTML
 * paragraphs
