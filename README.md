@@ -4,7 +4,7 @@
 
 > Christina's Challenge - create a landing page
 
-I created a challenge for myself after watching a YouTube video: [How I Would Become a Web Developer in 6 Months | Legit Step By Step Tutorial](https://www.youtube.com/watch?v=vB4bSDznwgM){:target="_blank" rel="noopener"}
+I created a challenge for myself after watching a YouTube video: [How I Would Become a Web Developer in 6 Months | Legit Step By Step Tutorial](https://www.youtube.com/watch?v=vB4bSDznwgM)
 
 It was pretty inspiring, to see someone who is now making well over a $100k salary, give advice on what kinds of things I should probably work on to make a good portfolio to have something to show to employers when I apply to jobs, and what employers would probably be looking for. Sure, everyone can follow tutorials, but what kinds of things have you created on your own? That question was the most important one. What can I do all on my own, using my existing knowledge of programming, and a good amount of Googling, and learning how to search the internet effectively?
 
