@@ -14,7 +14,7 @@
             <br>Seen on the right: a photo of knitting needles and yarn. The
             photo has a border. Hover over it to see it rotate.
             <br>
-            <img src="photos/knitting.jpg" alt="knitting with yarn">
+            <img src="photos/knitting.jpg" alt="knitting with yarn"/>
         </p>
 
     <h2>Here's some more paragraphs</h2>
@@ -56,8 +56,10 @@
         <p>
             Fourth paragraph. Because...why not? The more the merrier! How about a
             list?
-            <h2 id ="towel-list">Types of Towels</h2>
-            <ul>
+            <div id="towel-list">
+            <h2 id ="towel-heading">Types of Towels</h2>
+            <img id="towel" src="photos/towels.jpg" alt="assorted towels"/>
+            <ol id="towel-bullets">
                 <li>Paper towels</li>
                 <li>Hand towels</li>
                 <li>Beach towels</li>
@@ -65,8 +67,8 @@
                 <li>Hand towels</li>
                 <li>Bath towels</li>
                 <li>Gross wet towels</li>
-            </ul>
-            <img src="photos/towels.jpg" alt="assorted towels">
+            </ol>
+            </div>
         </p>
         <p>
             What's a page without a 5th paragraph? Here's some
@@ -84,6 +86,13 @@
             useful "Back to Top" button, since I've been adding so many paragraphs
             to this page!
         </p>
+
+        <h1>History of The Railroad Switch</h1>
+        <blockquote cite="https://www.wikiwand.com/en/Railroad_switch">
+            <p>A railroad car's wheels are guided along the tracks by coning of the wheels.</p>
+            <footer>-Railroad switch, <cite>Wikiwand article</cite></footer>
+          </blockquote>
+
         <a class="scroll-top" id="btnScrollTop">Back to Top</a>
 
         <script src ="app.js"></script>
