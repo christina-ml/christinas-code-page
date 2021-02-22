@@ -50,3 +50,8 @@ img {
 img:hover {
     transform: rotate(10deg);
 }
+
+/* Attribute selector: Links with "ipsum" anywhere in the URL */
+a[href*="ipsum"] {
+    color: greenyellow;
+  }
