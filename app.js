@@ -14,3 +14,15 @@ document.getElementById('btnScrollTop')
     });
 
   });
+
+
+// This creates a "scroll to Railroad Switch" button, scrolling up to (0,0) coordinates.
+document.getElementById('btnScrollRR')
+.addEventListener('click', function(){
+  window.scrollTo({
+    top: 1000,
+    left: 0,
+    behavior: 'smooth'
+  });
+
+});
