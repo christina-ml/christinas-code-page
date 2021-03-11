@@ -1,4 +1,4 @@
-# christinas-landing-page
+# christinas-challenge-page
 
 ## About this Project
 
